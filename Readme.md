@@ -23,3 +23,6 @@
    ```
 
 API is fully tested in POSTMAN
+
+Environment variable needed is ---
+JWT_SECRET
